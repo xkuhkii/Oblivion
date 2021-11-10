@@ -1,0 +1,63 @@
+.Bgi{
+    background-image: url(image/image\ \(3\)\ \(1\).jpg);
+}
+
+h1{
+    position: absolute;
+    top: 0.1%;
+    left: 40%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    color: white;
+    opacity: 0.9;
+}
+
+.Download {
+    position: absolute;
+    top: 30%;
+    left: 45.3%;
+}
+
+.DownloadStyle {
+    width: 115px;
+    height: 35px;
+    border: 0px;
+    background-color: transparent;
+    font-size: 20px;
+}
+
+.Discord{
+    position: absolute;
+    top: 40%;
+    left: 45.2%;
+}
+
+.DiscordStyle{
+    width: 115px;
+    height: 35px;
+    border: 0px;
+    background-color: transparent;
+    font-size: 20px;
+}
+
+.Hover1:hover {
+border-bottom: 3px solid white;
+}
+
+.CommonFixes{
+    position: absolute;
+    top: 50%;
+    left: 45.3%;
+}
+
+.CommonFixesStyle{
+    width: 115px;
+    height: 55px;
+    border: 0px;
+    background-color: transparent;
+    font-size: 20px;
+}
+
+.Hover1:hover {
+    border-bottom: 3px solid white;
+    }

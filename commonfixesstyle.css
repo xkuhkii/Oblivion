@@ -1,0 +1,84 @@
+.Bgi{
+    background-image: url(image/image\ \(3\)\ \(1\).jpg);
+}
+
+h1{
+    position: absolute;
+    top: -8%;
+    left: 31%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    color: white;
+}
+
+h2{
+    position: absolute;
+    top: 20%;
+    left: 1%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+h3{
+    position: absolute;
+    top: 35%;
+    left: 1%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+h4{
+    position: absolute;
+    top: 50%;
+    left: 1%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+h5{
+    position: absolute;
+    top: 60%;
+    left: 1%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+h6{
+    position: absolute;
+    top: 70%;
+    left: 1%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: black;
+}
+
+h7{
+    position: absolute;
+    top: 102%;
+    left: 1%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: black;
+}
